@@ -13,5 +13,5 @@ $: python bomber.py
 
 ## Developer
 
-Elton Fonseca
-*Computer Science Student*
+###### Elton Fonseca
+Computer Science Student
