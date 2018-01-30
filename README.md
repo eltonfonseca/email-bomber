@@ -8,11 +8,10 @@ Enter your email and password, right after your victim's email
 
 ```
 $: python bomber.py
-
 ```
-
 ***
 
-Developer: Elton Fonseca
+## Developer
 
-Computer Science Student
+Elton Fonseca
+*Computer Science Student*
